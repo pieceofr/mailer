@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/pieceofr/mailer/issues"
   },
-  "homepage": "https://github.com/pieceofr/mailer#readme"
+  "homepage": "https://github.com/pieceofr/mailer#readme",
+  "dependencies": {
+    "bunyan": "^1.8.10",
+    "nodemailer": "^4.0.1"
+  }
 }
