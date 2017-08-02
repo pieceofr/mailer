@@ -23,9 +23,9 @@ console.log('SMTP Configured');
 
 // Message object
 let message = {
-
+    from: '<service@us.vestasmarthome.com>', 
     // Comma separated list of recipients
-    to: 'Andris Reinman <andris.reinman@gmail.com>',
+    to: 'Rachael Pai <rachael@climax.com.tw>',
 
     // Subject of the message
     subject: 'Nodemailer is unicode friendly ✔ #', //
